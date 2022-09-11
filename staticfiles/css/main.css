@@ -1,0 +1,42 @@
+body{
+	background-color:#1d304d!important;
+}
+
+#profile-wrapper{
+	text-align: center;
+}
+
+#profile-pic{
+	width:150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+ul{
+	padding: 0;
+    list-style-type: none;
+}
+
+
+.social-links ul, li{
+	list-style-type:none;
+	display: inline-block;
+}
+
+.social{
+	width:20px;
+	height: 20px;
+}
+
+button{
+	background-color: #f1c709;
+	border: 1px solid #F8F8F8;
+}
+
+.footer{
+	background-color: #1d304d;
+	color: #F8F8F8;
+	align-items: center;
+}
